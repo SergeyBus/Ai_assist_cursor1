@@ -7,7 +7,9 @@
 
 **Ассистент реализован в виде чат-бота Telegram:**  
 [@caloriescook_bot](https://t.me/caloriescook_bot)
-[![Телеграмм-бот]([[URL_картинки](https://github.com/SergeyBus/Ai_assist_cursor1/blob/main/Screenshot_4.png)]]
+[![Телеграмм-бот](https://github.com/SergeyBus/Ai_assist_cursor1/blob/main/Screenshot_4.png)]
+[![Telegram Bot](https://github.com/SergeyBus/Ai_assist_cursor1/blob/main/Screenshot_4.png?raw=true)](https://t.me/caloriescook_bot)
+
 ## Функционал
 
 - **Расчет нормы калорий**:
