@@ -30,6 +30,10 @@
 [![Блок-схема](https://github.com/SergeyBus/Ai_assist_cursor1/blob/main/%D0%91%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D0%B0.pdf)]
 
 - Основной алгоритм реализован на платформе **salebot**.
+[![](https://github.com/SergeyBus/Ai_assist_cursor1/blob/main/Diet.png)]
+ [![](https://github.com/SergeyBus/Ai_assist_cursor1/blob/main/Diet1.png)]
+ [![](https://github.com/SergeyBus/Ai_assist_cursor1/blob/main/Diet2.png)]
+  [![](https://github.com/SergeyBus/Ai_assist_cursor1/blob/main/Diet3.png)]
 - Для анализа и диетических рекомендаций используется ИИ-модель на **GigaChat**.
 
 ## Пример запроса
