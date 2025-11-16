@@ -31,7 +31,7 @@
 
 - Основной алгоритм реализован на платформе **salebot**.
 ![Алгоритм ч.1](https://github.com/SergeyBus/Ai_assist_cursor1/blob/main/Diet.png)
- [![Алгоритм ч.2](https://github.com/SergeyBus/Ai_assist_cursor1/blob/main/Diet1.png)]
+ ![Алгоритм ч.2](https://github.com/SergeyBus/Ai_assist_cursor1/blob/main/Diet1.png)
  [![Алгоритм ч.3](https://github.com/SergeyBus/Ai_assist_cursor1/blob/main/Diet2.png)]
   [![Алгоритм ч.4](https://github.com/SergeyBus/Ai_assist_cursor1/blob/main/Diet3.png)]
 - Для анализа и диетических рекомендаций используется ИИ-модель на **GigaChat**.
